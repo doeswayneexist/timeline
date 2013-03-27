@@ -1,0 +1,28 @@
+First steps
+
+what does it do?
+
+Creates a time line.
+
+Begin with an empty line.
+
+User enters the first event.
+
+Puts it in the middle of the time line.
+
+----------------V----------------
+
+User enters the second event.
+
+Determine where on the timeline it goes.
+
+---------v-----------v-----------
+
+Always put the two furthest points at the same place on the timeline.
+
+--v---------------------------v--
+
+User keeps entering events and the events are placed accordingly on the timeline.
+
+keep track of both extremes.
+
